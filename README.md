@@ -1,2 +1,2 @@
 # Image-difference
-Difference between two images with 100%
+Difference between two images in percentage.
